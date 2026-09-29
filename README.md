@@ -19,9 +19,9 @@ Mở `index.html` bằng Chrome. Đây là website tĩnh, không cần cài đ�
 
 ## Lưu ý trước khi gửi/phát hành
 
-- Bản hiện chạy local, chưa xuất bản công khai.
+- Website công khai: https://datcangagency.github.io/DatCangxTLX/ (đã kiểm tra HTTP 200 ngày 29/09/2026).
 - Các ảnh báo chí và video nguồn được nhúng liên kết trực tiếp; ảnh chỉ làm tư liệu minh họa bố cục. Cần xin phép hoặc thay bằng tư liệu do đơn vị quản lý cung cấp trước khi phát hành chính thức.
-- Các trang nguồn không công khai lượt xem; bản web ghi rõ và không ước đoán.
-- Ba mẫu tham khảo: Hoàng thành Thăng Long (Đài Hà Nội, 23/08/2026), Cổ Loa (Đài Hà Nội, 09/09/2026) và Từ Lương Xâm (THP, 07/09/2025). Các video dùng trình phát HTML5 với liên kết MP4 trực tiếp từ nhà đài; trang nguồn không hiển thị lượt xem công khai.
+- Ba mẫu TVC quảng bá điểm đến được thay theo yêu cầu ngày 29/09/2026: Cổng trời Đông Giang (B PRODUCTIONS), Núi Cấm An Giang (BUTVANGCORP), Ký ức Hội An (ColorMedia). Dùng ảnh bìa và liên kết xem trên YouTube để tránh lỗi nhúng trình phát.
+- Chỉ tham khảo cách thể hiện; không cam kết tái tạo quy mô sản xuất của các phim mẫu. Hai option hoạt hình 29/50 triệu vẫn giữ riêng, không thuộc báo giá TVC chính.
 - Hai thẻ bản dọc có ảnh thật minh họa bố cục 9:16; đây là hình dung đầu ra dự kiến.
 - Dự toán cơ sở 9.500.000đ trước VAT. Chi phí phát sinh tối đa 500.000đ chỉ được tính khi phát sinh thực tế và có duyệt trước; tổng tối đa 10.000.000đ trước VAT.
